@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div#main{
+    background-color: aqua;
+    width: auto;
+    height: auto;
+    padding-bottom: 100px;
+    align-content: center;
+    
+}
+div#container{
+    width: 800px;
+    height: auto;
+    background-color: white;
+    border-radius: 5px;
+    margin: 0 auto;
+    
+}
+h1{
+    text-align: center;
+    padding: 30px;
+    font-family: Verdana, sans-serif;
+}
+form{
+    
+    padding: 20px;
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+}
+p{
+    font-size: 18px;
+    font-family: Verdana,sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px
+}
+input[type="submit"]{
+    align-content: center;
+    width: 70px;
+    height: 30px;
+}
+input:invalid{
+    border-color: red;
+}
+
+
+
+
+
+
+
+
+
